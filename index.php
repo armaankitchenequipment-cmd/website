@@ -1,0 +1,525 @@
+<?php include'header.php'; ?>
+        <!-- hero-oneSection Start -->
+        <section class="hero-two">
+            <div class="hero-two__carousel voldor-owl__carousel owl-carousel" data-owl-options='{
+		"loop": true,
+		"animateOut": "fadeOut",
+		"animateIn": "fadeIn",
+		"items": 1,
+		"autoplay": true,
+		"autoplayTimeout": 7000,
+		"smartSpeed": 1500,
+		"nav": false,
+		"dots": true,
+		"margin": 0
+	    }'><div class="hero-two__item">
+    <div class="hero-two__item__bg" style="background-image: url(assets/images/backgrounds/slider-1-2.jpg);"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="hero-two__content">
+                    <h2 class="hero-two__title">Armaan Kitchen Equipment
+                        <span class="hero-two__title__overlay-group">
+                            <span class="hero-two__title__overlay"></span>
+                            <span class="hero-two__title__overlay"></span>
+                            <span class="hero-two__title__overlay"></span>
+                            <span class="hero-two__title__overlay"></span>
+                        </span>
+                    </h2>
+                    <p class="hero-two__text">Your trusted partner for premium commercial kitchen solutions, from fryers and bhattis to modern cooking ranges – designed for performance and durability.</p>
+                    <div class="hero-two__btn">
+                        <a href="about.php" class="voldor-btn voldor-btn--base">Discover More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="hero-two__item__shape">
+        <img src="assets/images/shapes/hero-2-1.png" alt>
+    </div>
+</div>
+
+<div class="hero-two__item">
+    <div class="hero-two__item__bg" style="background-image: url(assets/images/backgrounds/slider-1-1.jpg);"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="hero-two__content">
+                    <h2 class="hero-two__title">Armaan Kitchen Equipment
+                        <span class="hero-two__title__overlay-group">
+                            <span class="hero-two__title__overlay"></span>
+                            <span class="hero-two__title__overlay"></span>
+                            <span class="hero-two__title__overlay"></span>
+                            <span class="hero-two__title__overlay"></span>
+                        </span>
+                    </h2>
+                    <p class="hero-two__text">We provide innovative, reliable, and high-quality kitchen equipment to help your business cook smarter, faster, and better.</p>
+                    <div class="hero-two__btn">
+                        <a href="about.php" class="voldor-btn voldor-btn--base">Discover More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="hero-two__item__shape">
+        <img src="assets/images/shapes/hero-2-1.png" alt>
+    </div>
+</div>
+
+            </div>
+        </section>
+        <!-- hero-two Section End -->
+
+<!-- About Section Start -->
+<section class="about-two">
+    <div class="container">
+        <div class="row gutter-y-30">
+            <div class="col-lg-6">
+                <div class="about-two__left">
+                    <div class="about-two__thumb wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="300ms">
+                        <div class="about-two__thumb__item">
+                            <img src="assets/images/about/about-2-1.png" alt="Armaan Kitchen Equipment">
+                            <div class="about-two__thumb__call">
+                                <a href="tel:+91-98765-43210" class="about-two__thumb__call__item">
+                                    <div class="about-two__thumb__icon">
+                                        <i class="icon-chatting-1"></i>
+                                    </div>
+                                    <div class="about-two__thumb__content">
+                                        <span class="about-two__thumb__subtitle">Call for Inquiries</span>
+                                        <h6 class="about-two__thumb__number">9211226764</h6>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="about-two__thumb__item">
+                            <img src="assets/images/about/about-2-2.png" alt="Armaan Kitchen Equipment">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="about-two__right">
+                    <div class="about-two__top ">
+                        <div class="sec-title wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='000ms'>
+                            <h6 class="sec-title__tagline"> 
+                                <img src="assets/images/shapes/sec-title-s-1.png" alt="About Us" class="sec-title__img"> 
+                                About Us
+                            </h6>
+                            <h3 class="sec-title__title">Leading Commercial Kitchen Equipment Manufacturer</h3>
+                        </div>
+                        <p class="about-two__top__text">
+                            At <strong>Armaan Kitchen Equipment</strong>, we specialize in designing and manufacturing 
+                            world-class commercial kitchen solutions. From fryers and bhattis to modern gas ranges, 
+                            our products are built to deliver durability, efficiency, and unmatched performance for 
+                            restaurants, hotels, and food businesses.
+                        </p>
+                    </div>
+                    <div class="about-two__highlight wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="000ms">
+                        <p class="about-two__highlight__text">
+                            Our mission is to help businesses cook smarter, faster, and more reliably with equipment 
+                            crafted from premium materials and cutting-edge technology.
+                        </p>
+                    </div>
+                    <div class="about-two__feature wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="000ms">
+                        <div class="row align-items-center gutter-y-30">
+                            <div class="col-xl-5 col-lg-12 col-md-5 col-sm-5">
+                                <div class="about-two__feature__left">
+                                    <div class="about-two__feature__funfact">
+                                        <div class="about-two__funfact__item count-box">
+                                            <h2 class="about-two__funfact__item__count">
+                                                <span class="count-text" data-stop="8" data-speed="1500"></span>
+                                                <span>+</span>
+                                            </h2>
+                                            <p class="about-two__funfact__item__text">Years Experience</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-7 col-lg-12 col-md-7 col-sm-7">
+                                <div class="about-two__feature__right">
+                                    <ul class="about-two__feature__list list-unstyled">
+                                        <li class="about-two__feature__list__item"><i class="fas fa-check-circle"></i> Premium quality stainless steel equipment</li>
+                                        <li class="about-two__feature__list__item"><i class="fas fa-check-circle"></i> Trusted by restaurants & hotels nationwide</li>
+                                        <li class="about-two__feature__list__item"><i class="fas fa-check-circle"></i> Custom designs & reliable after-sales support</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="about-two__btn">
+                        <a href="about.php" class="about-two__btn__link voldor-btn voldor-btn--secondary">Discover More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- About Section End -->
+
+<!-- Service Section Start -->
+<section class="service-two">
+    <div class="service-two__bg jarallax" data-jarallax data-speed="0.3" data-imgPosition="50% -100%" style="background-image: url(assets/images/shapes/service-2-1.png);"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="sec-title text-center wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='000ms'>
+                    <h6 class="sec-title__tagline"> 
+                        <img src="assets/images/shapes/sec-title-s-1.png" alt="Products" class="sec-title__img"> 
+                        Our Products
+                    </h6>
+                    <h3 class="sec-title__title">Premium Kitchen Equipment <br> for Every Business</h3>
+                </div>
+            </div>
+        </div>
+        <div class="service-two__carousel voldor-owl__carousel owl-carousel owl-theme voldor-owl__carousel--basic-nav" data-owl-options='{
+            "items": 1,
+            "margin": 0,
+            "loop": false,
+            "smartSpeed": 700,
+            "nav": false,
+            "dots": true,
+            "autoplay": true,
+            "responsive": {
+                "0": {"items": 1},
+                "576": {"items": 1, "margin": 30},
+                "991": {"items": 2, "margin": 30},
+                "1199": {"items": 3, "margin": 30}
+            }
+        }'>
+            <!-- Item -->
+            <div class="service-two__item">
+                <div class="service-two__item__top">
+                    <h4 class="service-two__item__top__title">Cooking Range</h4>
+                    <p class="service-two__item__top__text">Durable and efficient cooking ranges designed for commercial kitchens and heavy-duty use.</p>
+                    <div class="service-two__item__top__icon">
+                        <i class="icon-welding-mask-3-1"></i>
+                    </div>
+                </div>
+                <div class="service-two__item__thumb">
+                    <img src="assets/images/service/service-3-1.png" alt="Cooking Range">
+                    <div class="service-two__item__thumb__shape">
+                        <img src="assets/images/shapes/service-2-3.png" alt>
+                    </div>
+                </div>
+            </div>
+            <!-- Item -->
+            <div class="service-two__item">
+                <div class="service-two__item__top">
+                    <h4 class="service-two__item__top__title">Momos Trolley</h4>
+                    <p class="service-two__item__top__text">Stylish and practical momos trolleys perfect for street food vendors and quick service.</p>
+                    <div class="service-two__item__top__icon">
+                        <i class="icon-welding-1-1"></i>
+                    </div>
+                </div>
+                <div class="service-two__item__thumb">
+                    <img src="assets/images/service/service-3-2.png" alt="Momos Trolley">
+                    <div class="service-two__item__thumb__shape">
+                        <img src="assets/images/shapes/service-2-3.png" alt>
+                    </div>
+                </div>
+            </div>
+            <!-- Item -->
+            <div class="service-two__item">
+                <div class="service-two__item__top">
+                    <h4 class="service-two__item__top__title">Sweetcorn Trolley</h4>
+                    <p class="service-two__item__top__text">Compact and user-friendly sweetcorn trolleys for outdoor and indoor food businesses.</p>
+                    <div class="service-two__item__top__icon">
+                        <i class="icon-welding-machine-1"></i>
+                    </div>
+                </div>
+                <div class="service-two__item__thumb">
+                    <img src="assets/images/service/service-3-3.png" alt="Sweetcorn Trolley">
+                    <div class="service-two__item__thumb__shape">
+                        <img src="assets/images/shapes/service-2-3.png" alt>
+                    </div>
+                </div>
+            </div>
+            <!-- Item -->
+            <div class="service-two__item">
+                <div class="service-two__item__top">
+                    <h4 class="service-two__item__top__title">Bain Marie</h4>
+                    <p class="service-two__item__top__text">High-quality bain marie systems to keep food warm, fresh, and ready to serve.</p>
+                    <div class="service-two__item__top__icon">
+                        <i class="icon-welding-mask-3-1"></i>
+                    </div>
+                </div>
+                <div class="service-two__item__thumb">
+                    <img src="assets/images/service/service-3-4.png" alt="Bain Marie">
+                    <div class="service-two__item__thumb__shape">
+                        <img src="assets/images/shapes/service-2-3.png" alt>
+                    </div>
+                </div>
+            </div>
+            <!-- Item -->
+            <div class="service-two__item">
+                <div class="service-two__item__top">
+                    <h4 class="service-two__item__top__title">Fryer<h4>
+                    <p class="service-two__item__top__text">Reliable deep fryers designed for fast frying, easy cleaning, and long-term use.</p>
+                    <div class="service-two__item__top__icon">
+                        <i class="icon-welding-1-1"></i>
+                    </div>
+                </div>
+                <div class="service-two__item__thumb">
+                    <img src="assets/images/service/service-3-5.png" alt="Fryer">
+                    <div class="service-two__item__thumb__shape">
+                        <img src="assets/images/shapes/service-2-3.png" alt>
+                    </div>
+                </div>
+            </div>
+            <!-- Item -->
+        </div>
+    </div>
+</section>
+<!-- Service Section End -->
+
+<!-- why-choose-one Section Start -->
+<section class="why-choose-one">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-8">
+                <div class="why-choose-one__left">
+                    <div class="why-choose-one__top">
+                        <div class="sec-title  wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='000ms'>
+                            <h6 class="sec-title__tagline"> 
+                                <img src="assets/images/shapes/sec-title-s-1.png" alt="Why Choose Us" class="sec-title__img"> Why Choose Us
+                            </h6>
+                            <h3 class="sec-title__title">Why Choose Our Commercial Kitchen Equipment?</h3>
+                        </div>
+                        <p class="why-choose-one__top__text">
+                            We provide high-quality, durable, and innovative commercial kitchen solutions 
+                            designed to meet the needs of restaurants, hotels, and food stalls. 
+                            From heavy-duty cooking ranges to portable trolleys, our products ensure 
+                            efficiency, safety, and long-lasting performance.
+                        </p>
+                    </div>
+                    <div class="why-choose-one__feature wow slideInUp" data-wow-duration="1500ms" data-wow-delay="300ms">
+                        <div class="row gutter-y-30 gutter-x-20">
+                            <div class="col-md-6">
+                                <div class="why-choose-one__feature__item">
+                                    <div class="why-choose-one__feature__item__icon">
+                                        <i class="icon-welding-mask-1"></i>
+                                    </div>
+                                    <div class="why-choose-one__feature__item__content">
+                                        <h4 class="why-choose-one__feature__item__title">Durable & Long-Lasting</h4>
+                                        <p class="why-choose-one__feature__item__text">
+                                            Built with premium-grade stainless steel and advanced engineering 
+                                            to withstand heavy commercial use.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="why-choose-one__feature__item">
+                                    <div class="why-choose-one__feature__item__icon">
+                                        <i class="icon-cutter-machine-1"></i>
+                                    </div>
+                                    <div class="why-choose-one__feature__item__content">
+                                        <h4 class="why-choose-one__feature__item__title">Fast & Reliable Service</h4>
+                                        <p class="why-choose-one__feature__item__text">
+                                            Quick delivery, expert installation, and dedicated after-sales 
+                                            support to keep your kitchen running smoothly.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="why-choose-one__cta wow slideInUp" data-wow-duration="1500ms" data-wow-delay="300ms">
+                        <div class="why-choose-one__cta__bg" style="background-image: url(assets/images/backgrounds/cta-bg-1-2.png);"></div>
+                        <div class="why-choose-one__cta__content">
+                            <div class="why-choose-one__cta__text">
+                                <h4 class="why-choose-one__cta__title">Ready to Upgrade Your Kitchen?</h4>
+                                <a href="contact.php" class="voldor-btn why-choose-one__cta__btn">Get in Touch</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4">
+                <div class="why-choose-one__right">
+                    <div class="why-choose-one__thumb wow slideInRight" data-wow-duration="1500ms" data-wow-delay="300ms">
+                        <img src="assets/images/about/why-choose-1-1.jpg" alt="Kitchen Equipment">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- why-choose-one Section End -->
+
+        <!-- funfact-one Section Start -->
+        <section class="funfact-one">
+            <div class="funfact-one__bg jarallax" data-jarallax data-speed="0.3" data-imgPosition="50% -100%" style="background-image: url(assets/images/shapes/funfact-bg.png);"></div>
+            <div class="container">
+                <div class="row gutter-y-30">
+                    <div class="col-lg-3 col-md-6 col-sm-6">
+                        <div class="funfact-one__funfact__item count-box wow fadeInUp" data-wow-delay="300ms">
+                            <div class="funfact-one__funfact__item__icon">
+                                <i class="icon-expertise-1"></i>
+                            </div>
+                            <h2 class="funfact-one__funfact__item__count">
+                                <span class="count-text" data-stop="120" data-speed="1500"></span>
+                                <span>K</span>
+                            </h2>
+                            <p class="funfact-one__funfact__item__text">Satisfied <br> Clients</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6">
+                        <div class="funfact-one__funfact__item count-box wow fadeInUp" data-wow-delay="600ms">
+                            <div class="funfact-one__funfact__item__icon">
+                                <i class="icon-verified-2"></i>
+                            </div>
+                            <h2 class="funfact-one__funfact__item__count">
+                                <span class="count-text" data-stop="30" data-speed="1500"></span>
+                                <span>K</span>
+                            </h2>
+                            <p class="funfact-one__funfact__item__text"> Projects <br> completed</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6">
+                        <div class="funfact-one__funfact__item count-box wow fadeInUp" data-wow-delay="900ms">
+                            <div class="funfact-one__funfact__item__icon">
+                                <i class="icon-rating-2"></i>
+                            </div>
+                            <h2 class="funfact-one__funfact__item__count">
+                                <span class="count-text" data-stop="50" data-speed="1500"></span>
+                                <span>+</span>
+                            </h2>
+                            <p class="funfact-one__funfact__item__text">Five Star <br> Review</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6">
+                        <div class="funfact-one__funfact__item count-box wow fadeInUp" data-wow-delay="1100ms">
+                            <div class="funfact-one__funfact__item__icon">
+                                <i class="icon-team-1"></i>
+                            </div>
+                            <h2 class="funfact-one__funfact__item__count">
+                                <span class="count-text" data-stop="60" data-speed="1500"></span>
+                                <span>+</span>
+                            </h2>
+                            <p class="funfact-one__funfact__item__text">Professional <br> expert</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- funfact-one Section End -->
+<!-- gallery-one Section Start -->
+<section class="gallery-one gallery-one--page">
+    <div class="container">
+        <div class="row masonry-layout">
+            <div class="col-md-6 col-lg-4">
+                <div class="gallery-one__card">
+                    <img src="assets/images/gallery-new/gallery (1).jpg" alt="gallery">
+                    <div class="gallery-one__card__hover">
+                        <a href="assets/images/gallery-new/gallery (1).jpg" class="img-popup">
+                            <div class="gallery-one__card__icon">
+                                <span class="gallery-one__card__icon__item"></span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div><!-- /.col -->
+            <div class="col-md-6 col-lg-4">
+                <div class="gallery-one__card">
+                    <img src="assets/images/gallery-new/gallery (2).jpg" alt="gallery">
+                    <div class="gallery-one__card__hover">
+                        <a href="assets/images/gallery-new/gallery (2).jpg" class="img-popup">
+                            <div class="gallery-one__card__icon">
+                                <span class="gallery-one__card__icon__item"></span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div><!-- /.col -->
+            <div class="col-md-6 col-lg-4">
+                <div class="gallery-one__card">
+                    <img src="assets/images/gallery-new/gallery (3).jpg" alt="gallery">
+                    <div class="gallery-one__card__hover">
+                        <a href="assets/images/gallery-new/gallery (3).jpg" class="img-popup">
+                            <div class="gallery-one__card__icon">
+                                <span class="gallery-one__card__icon__item"></span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div><!-- /.col -->
+            <div class="col-md-6 col-lg-4">
+                <div class="gallery-one__card">
+                    <img src="assets/images/gallery-new/gallery (4).jpg" alt="gallery">
+                    <div class="gallery-one__card__hover">
+                        <a href="assets/images/gallery-new/gallery (4).jpg" class="img-popup">
+                            <div class="gallery-one__card__icon">
+                                <span class="gallery-one__card__icon__item"></span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div><!-- /.col -->
+            <div class="col-md-6 col-lg-4">
+                <div class="gallery-one__card">
+                    <img src="assets/images/gallery-new/gallery (5).jpg" alt="gallery">
+                    <div class="gallery-one__card__hover">
+                        <a href="assets/images/gallery-new/gallery (5).jpg" class="img-popup">
+                            <div class="gallery-one__card__icon">
+                                <span class="gallery-one__card__icon__item"></span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div><!-- /.col -->
+            <div class="col-md-6 col-lg-4">
+                <div class="gallery-one__card">
+                    <img src="assets/images/gallery-new/gallery (6).jpg" alt="gallery">
+                    <div class="gallery-one__card__hover">
+                        <a href="assets/images/gallery-new/gallery (6).jpg" class="img-popup">
+                            <div class="gallery-one__card__icon">
+                                <span class="gallery-one__card__icon__item"></span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div><!-- /.col -->
+            <div class="col-md-6 col-lg-4">
+                <div class="gallery-one__card">
+                    <img src="assets/images/gallery-new/gallery (7).jpg" alt="gallery">
+                    <div class="gallery-one__card__hover">
+                        <a href="assets/images/gallery-new/gallery (7).jpg" class="img-popup">
+                            <div class="gallery-one__card__icon">
+                                <span class="gallery-one__card__icon__item"></span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div><!-- /.col -->
+            <div class="col-md-6 col-lg-4">
+                <div class="gallery-one__card">
+                    <img src="assets/images/gallery-new/gallery (8).jpg" alt="gallery">
+                    <div class="gallery-one__card__hover">
+                        <a href="assets/images/gallery-new/gallery (8).jpg" class="img-popup">
+                            <div class="gallery-one__card__icon">
+                                <span class="gallery-one__card__icon__item"></span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div><!-- /.col -->
+            <div class="col-md-6 col-lg-4">
+                <div class="gallery-one__card">
+                    <img src="assets/images/gallery-new/gallery (9).jpg" alt="gallery">
+                    <div class="gallery-one__card__hover">
+                        <a href="assets/images/gallery-new/gallery (9).jpg" class="img-popup">
+                            <div class="gallery-one__card__icon">
+                                <span class="gallery-one__card__icon__item"></span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container -->
+</section>
+<!-- gallery-one Section End -->
+<?php include'footer.php'; ?>
+
+
