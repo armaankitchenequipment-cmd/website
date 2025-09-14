@@ -1,0 +1,97 @@
+body {
+  overflow-x: hidden;
+  direction: rtl;
+}
+
+.owl-carousel {
+  direction: ltr;
+}
+
+.owl-carousel .owl-nav,
+.owl-carousel .owl-dots,
+.owl-carousel .owl-item {
+  direction: rtl;
+}
+
+.contact__input-box .bootstrap-select .dropdown-menu,
+.bootstrap-select .dropdown-toggle .filter-option {
+  text-align: right;
+}
+
+.list-unstyled {
+  padding-right: 0;
+}
+
+.hero-one__item .hero-one__item__shape {
+  left: 0;
+  right: auto;
+}
+.hero-one__item .hero-one__item__shape img {
+  width: auto !important;
+}
+
+.hero-one__carousel .owl-dots {
+  left: auto;
+}
+
+.feature-one__item__content::after {
+  right: auto;
+  clip-path: polygon(0 0, 0% 100%, 100% 100%);
+}
+
+.feature-one__item__content::after,
+.about-one__funfact__item,
+.about-one__progress__number,
+.why-choose-two__thumb::before,
+.why-choose-two__thumb__item::after,
+.blog-card__link i,
+.footer-widget--about::after {
+  right: auto;
+}
+
+.service-card__inner::after {
+  clip-path: polygon(0 0, 0% 100%, 100% 0);
+}
+
+.why-choose-two__thumb::before {
+  clip-path: polygon(100% 100%, 0% 100%, 100% 0);
+}
+
+.why-choose-two__right,
+.footer-widget--links,
+.footer-widget--contact,
+.footer-widget--instagram,
+.main-menu .main-menu__list > li + li,
+.main-header__right__info__item + .main-header__right__info__item,
+.main-header__right__btn,
+.topbar-one__social a + a,
+.topbar-one__info__item + .topbar-one__info__item {
+  margin-left: 0;
+}
+
+.why-choose-two__feature__item__title {
+  margin-right: 0px;
+  padding-right: 0px;
+  border-right: 0px solid var(--voldor-text, #797577);
+}
+
+.team-card__content__svg {
+  transform: rotateY(180deg);
+}
+
+.blog-card__link i {
+  transform: rotateY(180deg);
+}
+
+.footer-widget--about {
+  margin-right: 0;
+}
+
+.footer-widget--links {
+  margin-right: 30px;
+}
+
+.topbar-one__right {
+  margin-left: 0;
+}
+/*# sourceMappingURL=voldor-custom-rtl.css.map */

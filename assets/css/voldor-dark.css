@@ -1,0 +1,184 @@
+:root {
+  --voldor-white: #120F10;
+  --voldor-white-rgb:18, 15, 16;
+  --voldor-black: #fff;
+  --voldor-black-rgb: 255, 255, 255;
+  --voldor-text: #797577;
+  --voldor-text-rgb: 121, 117, 119;
+  --voldor-text-gray: #958F91;
+  --voldor-text-gray-rgb: 149, 143, 145;
+  --voldor-base: #AE8F62;
+  --voldor-base-rgb: 174, 143, 98;
+  --voldor-secondary: #241F21;
+  --voldor-secondary-rgb:36, 31, 33 ;
+  --voldor-gray: #E6E0D8;
+  --voldor-gray-rgb: 230, 224, 216;
+  --voldor-black2: #1B1216;
+  --voldor-black2-rgb: 27, 18, 22;
+  --voldor-black3: #221C1E;
+  --voldor-black3-rgb: 34, 28, 30;
+  --voldor-black4: #000;
+  --voldor-black4-rgb: 0, 0, 0;
+  --voldor-border-color: #F4F2EE;
+  --voldor-border-color-rgb: 244, 242, 238;
+}
+
+.hero-one__carousel .owl-dots .owl-dot span::after {
+  border: 1px solid var(--voldor-black);
+}
+
+.hero-one__thumb__carousel .active.center .hero-one__thumb__item {
+  border: 7px solid var(--voldor-black);
+}
+
+.demo-one__btn:hover::after,
+.mobile-nav__btn span {
+  background: var(--voldor-black);
+}
+
+.service-card__icon {
+  background: var(--voldor-white);
+}
+
+.main-header__right__info__item,
+.feature-one__item__text,
+.sec-title__tagline,
+.about-one__progress__number {
+  color: var(--voldor-text-gray);
+}
+
+.main-header__btn {
+  background: var(--voldor-base);
+  border: 1px solid var(--voldor-black);
+}
+.main-header__btn:hover {
+  color: var(--voldor-black);
+  border: 1px solid var(--voldor-secondary);
+}
+
+.topbar-one__info__item a:hover,
+.hero-one__title,
+.hero-one__btn .voldor-btn,
+.feature-one__item__top__title,
+.feature-one__item:hover .feature-one__item__top__icon,
+.sec-title__title,
+.about-one__progress__title,
+.about-one__feature__title,
+.about-one__funfact__item__count,
+.about-one__funfact__item__text,
+.service-card__icon,
+.service-card__content__title,
+.service-card__thumb a,
+.why-choose-two__top .sec-title .sec-title__title,
+.why-choose-two__feature__item__title,
+.why-choose-two__funfact__item__count,
+.testimonials-two__item__name,
+.team-card__content__title,
+.team-card__content__hover__icon,
+.team-card__content__hover__social a,
+.client-carousel__title,
+.blog-card__date__day,
+.blog-card__date__year,
+.blog-card__meta li a,
+.blog-card__title,
+.footer-widget__title,
+.main-footer__social a,
+.footer-widget__instagram a::before, .footer-widget__instagram a::after,
+.project-two__content__title,
+.project-two__content__btn,
+.mobile-nav__content .main-menu__list li > a,
+.mobile-nav__content .main-menu__list li a button,
+.mobile-nav__contact li,
+.demo-one__btn,
+.about-one__link__btn:hover,
+.why-choose-two__feature__item:hover .why-choose-two__feature__item__icon {
+  color: var(--voldor-black);
+}
+
+.hero-one__btn .voldor-btn::after,
+.hero-one__carousel .owl-dots .owl-dot span,
+.about-one__link__btn,
+.service-card__thumb a::after {
+  background: var(--voldor-black);
+}
+
+.feature-one__item__top {
+  background: var(--voldor-black3);
+}
+
+.feature-one__item:hover .feature-one__item__top,
+.feature-one__item__top__icon {
+  background: var(--voldor-black2);
+}
+
+.feature-one__item,
+.feature-one__item__content::after {
+  background: #342B2E;
+}
+
+.feature-one__item:hover,
+.feature-one__item:hover .feature-one__item__content::after,
+.about-one__progress__bar,
+.about-one__feature__icon,
+.why-choose-two__thumb::before {
+  background: var(--voldor-secondary);
+}
+
+.about-one__progress__inner {
+  background: var(--voldor-base);
+}
+
+.service-page--home::after,
+.testimonials-two,
+.team-one--home {
+  background: var(--voldor-black3);
+}
+
+.service-card__inner::after,
+.blog-card__content {
+  background: var(--voldor-black2);
+}
+
+.team-card__content__hover__icon {
+  background: #221C1E;
+}
+
+.why-choose-two__funfact__item__icon {
+  border-left: 1px solid rgba(174, 143, 98, 0.2);
+  border-bottom: 1px solid rgba(174, 143, 98, 0.2);
+  border-right: 1px solid rgba(174, 143, 98, 0.2);
+}
+
+.testimonials-two__inner,
+.blog-one--home,
+.client-carousel {
+  background: var(--voldor-white);
+}
+
+.why-choose-two__funfact__item:hover .why-choose-two__funfact__item__icon {
+  color: var(--voldor-black);
+}
+
+.client-carousel__top::before {
+  background: rgba(var(--voldor-black-rgb), 0.2);
+}
+
+.team-card__content__svg svg {
+  fill: var(--voldor-black3);
+}
+
+@media (max-width: 1199px) {
+  .service-page .service-page__bg {
+    height: 100%;
+  }
+}
+@media (max-width: 1199px) {
+  .service-page:after {
+    height: 100%;
+  }
+}
+
+.testimonials-two__inner::after {
+  background: #1B1216;
+}
+/*# sourceMappingURL=voldor-dark.css.map */
